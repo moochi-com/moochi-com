@@ -1,32 +1,32 @@
-# Hi, I'm Nobu (nobby_chemist) 👋
+# Hi, I'm Nobu (nobby_chemist)
 
 **薬剤師・薬学博士 × Clinical Knowledge Engineering**
 
-医療現場の薬剤師として働きながら、薬剤師の知的業務（DI・文献調査・レジメン管理・研究支援）にAIを実装する実践を続けています。「院内で動くローカルLLM」「薬剤師の知識をGitHubで資産化」をテーマに発信中。
+薬剤師・薬学博士として院内DI業務・文献調査・研究支援にAIを実装してきた経験をもとに、「院内で動くローカルLLM」「薬剤師の知識資産をGitHubで公開」をテーマに発信しています。
 
-> ⚠️ All repositories are personal projects, independent of my employer. Contents are for educational/research purposes only.
-
----
-
-## 🔬 About Me
-
-- 💊 **薬剤師・薬学博士** — 薬剤疫学・PK/PD・TDM・医薬品情報専門。元国立がん研究センター東病院
-- 🤖 **AI実装** — ローカルLLM（Ollama / SLM）・Claude API・RAGシステムの構築
-- 📚 **Clinical Knowledge Engineering** — 論文・添付文書・DI情報をRAGで検索可能なWikiに変換・資産化
-- ✍️ **発信** — Note（薬剤師向け）/ Zenn（技術向け）/ GitHub（資産公開）の三層構造
+> All repositories are personal projects, independent of my employer. Contents are for educational/research purposes only.
 
 ---
 
-## 📦 Repositories
+## About Me
 
-### 🚀 最優先公開中
+- **薬剤師・薬学博士** — 薬剤疫学・PK/PD・TDM・医薬品情報専門。元国立がん研究センター東病院
+- **AI実装** — ローカルLLM（Ollama / SLM）・Claude API・RAGシステムの構築
+- **Clinical Knowledge Engineering** — 論文・添付文書・DI情報をRAGで検索可能なWikiに変換・資産化
+- **発信** — Note（薬剤師向け）/ Zenn（技術向け）/ GitHub（資産公開）の三層構造
+
+---
+
+## Repositories
+
+### 公開中
 
 | リポジトリ | 内容 |
 |---|---|
-| [pharmacy-local-llm-setup](https://github.com/moochi-com/pharmacy-local-llm-setup) | Ollama + Open WebUI + Docker — 院内で動くローカルLLM環境の構築 |
-| [pharmacy-prompt-library](https://github.com/moochi-com/pharmacy-prompt-library) | DI業務・文献要約・適応外使用・副作用説明プロンプト集 |
+| [pharmacy-local-llm-setup](https://github.com/moochi-com/pharmacy-local-llm-setup) | 病院・薬局のPCでローカルLLMを動かすためのセットアップガイド。Docker版とGUIアプリ（LM Studio）版の2ルートを収録。 |
+| [pharmacy-prompt-library](https://github.com/moochi-com/pharmacy-prompt-library) | DI業務・文献要約・適応外使用調査・副作用説明・安全性情報処理に使えるプロンプト集。Ollama / LM Studio で動作。 |
 
-### 🔬 準備中
+### 準備中
 
 | リポジトリ | 内容 | 予定 |
 |---|---|---|
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📝 Latest Articles
+## Latest Articles
 
 <!-- NOTE -->
 - **Note（薬剤師向け）**: https://note.com/nobby_chemist
@@ -64,7 +64,7 @@
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![Note](https://img.shields.io/badge/Note-41C9B4?style=flat-square&logo=note.com&logoColor=white)](https://note.com/nobby_chemist)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/nobby_chemist)
